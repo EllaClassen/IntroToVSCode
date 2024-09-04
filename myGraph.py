@@ -8,3 +8,5 @@ plt.show()
 
 print("Hello there!")
 
+print("Hi again")
+
